@@ -1,9 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import sys
-import glob
-import errno
 url = "https://www.economist.com/"
 
 try:
